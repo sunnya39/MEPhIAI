@@ -1,0 +1,1 @@
+Результаты проекта можно посмотреть на [Kaggle](https://www.kaggle.com/competitions/laptop-price/overview) (MSE - 102861.37159)
