@@ -5,5 +5,5 @@ Results: [Kaggle](https://www.kaggle.com/competitions/laptop-price/overview). MS
 ## Logistic Regression
 Results: [Kaggle](https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview). F1-score micro - 0.71295.
 ## Clusterization
-Task: Determine the types of scintillation detector signals.
+Task: Determine the types of scintillation detector signals.\
 Accuracy: 0.83802
