@@ -5,6 +5,6 @@ Competition: [Kaggle](https://www.kaggle.com/competitions/laptop-price/overview)
 ## Logistic Regression
 Competition: [Kaggle](https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview). F1-score micro - 0.71295.
 ## Clusterization
-Task: Determine the types of scintillation detector signals.\
+Dataset contains 23,479 signals with a different set of characteristics of these signals. It is necessary to cluster these signals into three clusters by signal type: two clusters represent signal types (gamma quanta or neutrons), and the third cluster represents a group of signals that cannot be clustered. Numbering of clusters from 0: 0, 1, 2.\
 Accuracy: 0.83802.\
 The data for the task was provided by the laboratory of the National Research Nuclear University MEPhI.
