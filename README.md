@@ -9,4 +9,4 @@ Dataset contains 23,479 signals with a different set of characteristics of these
 Accuracy: 0.83802.\
 The data for the task was provided by the laboratory of the National Research Nuclear University MEPhI.
 ## Video Captioning
-Competition: [Kaggle]([https://www.kaggle.com/competitions/passenger-satisfaction-2024/overview](https://www.kaggle.com/competitions/automated-video-captioning/overview)). BLEU score - 0.00988
+Competition: [Kaggle]([https://www.kaggle.com/competitions/automated-video-captioning/overview]). BLEU score - 0.00988
